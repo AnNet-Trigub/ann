@@ -19,9 +19,7 @@ body {
   max-width: 1200px;
   margin: 20px auto;
   padding: 20px;
-  /*background-color: #ffffff;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;*/
+  
 }
 
 .product-name {
@@ -92,7 +90,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 10px 0;
-  /*border-bottom: 1px solid #ddd;*/
+  
 }
 
 .item {
@@ -249,12 +247,12 @@ form label {
 }
 
 .text a {
-  color: #4A90E2; /* Змінює колір посилання */
-  text-decoration: none; /* Прибирає підкреслення */
+  color: #4A90E2; 
+  text-decoration: none; 
   font-weight: normal;
 }
 
-/* Стиль при наведенні курсора на посилання */
+
 .text a:hover {
   color: #357ABD;
   text-decoration: underline;
